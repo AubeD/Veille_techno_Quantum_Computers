@@ -1013,4 +1013,9 @@ and (max-width : 480px) {
 	margin-top: 7px;
 	font-size: 20px;
 }
+
+.imgs_fixes{
+	height:100;
+	width: 200;
+}
 }
